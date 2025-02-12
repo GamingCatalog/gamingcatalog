@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GoodGameDatabase.Web
+build_property.RootNamespace = GoodGameDatabase.Web
+build_property.ProjectDir = C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Admin/Views/Game/CreateNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVxDcmVhdGVOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Admin/Views/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Admin/Views/Shared/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Discussion/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3Vzc2lvblxBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Discussion/CreateNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3Vzc2lvblxDcmVhdGVOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Discussion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3Vzc2lvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Discussion/_DiscussionPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3Vzc2lvblxfRGlzY3Vzc2lvblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/Liked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxMaWtlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/Rated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxSYXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/Wished.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxXaXNoZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/_EditGameModalPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxfRWRpdEdhbWVNb2RhbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/_LikeGamePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxfTGlrZUdhbWVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/_RateGamePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxfUmF0ZUdhbWVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Game/_WishlistGamePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxfV2lzaGxpc3RHYW1lUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Guide/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Guide/CreateNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcQ3JlYXRlTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Guide/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Guide/_GuidePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcX0d1aWRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Home/_BestSixPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQmVzdFNpeFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Home/_HomeDiscussionPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfSG9tZURpc2N1c3Npb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Review/AllGameReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEFsbEdhbWVSZXZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Review/_ReviewGamePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XF9SZXZpZXdHYW1lUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_GamePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9HYW1lUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_PaginationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdpbmF0aW9uUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5ap93a6xvp
+
+[C:/gggg/GGDB/CSharp_Pathway_Final_Project/GoodGameDatabase/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qckq9g9zmg

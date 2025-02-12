@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GoodGameDatabase.Web.props" />
+</Project>

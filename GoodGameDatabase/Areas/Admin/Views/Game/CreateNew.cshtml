@@ -1,0 +1,87 @@
+﻿@using GoodGameDatabase.Data.Model;
+@model Game
+
+@{
+    ViewData["Title"] = "Create a new game";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="bg-gray-100 mt--30">
+    <div class="flex justify-center items-center min-h-screen">
+        <div class="w-full max-w-xl p-4 bg-white rounded-lg shadow-lg">
+            <h1 class="text-xl font-semibold mb-3 text-center">Create a Game</h1>
+            <form class="grid grid-cols-2 gap-3" action="/Admin/Game/Create" method="post">
+                <div class="col-span-2">
+                    <label class="font-semibold">Name</label>
+                    <input type="text" name="Name" class="w-full p-2 border rounded">
+                    <span asp-validation-for="Name" class="text-red-500">Name length should be between 2 and 50 characters</span>
+                </div>
+                <div class="col-span-2">
+                    <label class="font-semibold">Description</label>
+                    <textarea name="Description" class="w-full p-2 border rounded"></textarea>
+                    <span asp-validation-for="Description" class="text-red-500">Description length should be between 30 and 1000 characters</span>
+                </div>
+                <div>
+                    <label class="font-semibold">Version:</label>
+                    <input type="text" name="Version" class="w-full p-2 border rounded">
+                </div>
+                <div>
+                    <label class="font-semibold">Release Date:</label>
+                    <input type="date" name="ReleaseDate" class="w-full p-2 border rounded">
+                </div>
+                <div>
+                    <label class="font-semibold">Age Restriction:</label>
+                    <select name="AgeRestriction" class="w-full p-2 border rounded">
+                        <option value="0">PEGI 3</option>
+                        <option value="1">PEGI 7</option>
+                        <option value="2">PEGI 12</option>
+                        <option value="3">PEGI 16</option>
+                        <option value="4">PEGI 18</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="font-semibold">Release Status:</label>
+                    <select name="Status" class="w-full p-2 border rounded">
+                        <option value="0">Unreleased</option>
+                        <option value="1">Alpha</option>
+                        <option value="2">Closed Beta</option>
+                        <option value="3">Open Beta</option>
+                        <option value="4">Early Access</option>
+                        <option value="5">Official Release</option>
+                    </select>
+                </div>
+                <div class="col-span-2">
+                    <label class="font-semibold">Supported Platforms:</label>
+                    <label class="flex items-center">
+                        <input value="true" type="checkbox" name="SupportsPC" class="mr-1">
+                        PC
+                    </label>
+                    <label class="flex items-center">
+                        <input value="true" type="checkbox" name="SupportsPS" class="mr-1">
+                        PlayStation
+                    </label>
+                    <label class="flex items-center">
+                        <input value="true" type="checkbox" name="SupportsXbox" class="mr-1">
+                        Xbox
+                    </label>
+                    <label class="flex items-center">
+                        <input value="true" type="checkbox" name="SupportsNintendo" class="mr-1">
+                        Nintendo
+                    </label>
+                </div>
+                <div class="col-span-2">
+                    <label class="font-semibold">Image URL:</label>
+                    <input type="text" name="ImageUrl" class="w-full p-2 border rounded">
+                    <span asp-validation-for="ImageUrl" class="text-red-500">Please use a steam game image link with 616x353 resolution</span>
+                </div>
+                <div class="col-span-2 z-50">
+                    <button type="submit" class="main-color text-white rounded bg-pink-600 w-32 h-12">
+                        Create Game
+                    </button>
+                </div>
+                <div class="col-span-2">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
