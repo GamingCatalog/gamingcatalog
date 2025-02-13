@@ -1,0 +1,16 @@
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\bin\Debug\net6.0\GoodGameDatabase.Data.Model.deps.json
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\bin\Debug\net6.0\GoodGameDatabase.Data.Model.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\bin\Debug\net6.0\GoodGameDatabase.Data.Model.pdb
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\bin\Debug\net6.0\GoodGameDatabase.Common.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\bin\Debug\net6.0\GoodGameDatabase.Common.pdb
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.csproj.AssemblyReference.cache
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.AssemblyInfoInputs.cache
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.AssemblyInfo.cs
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.csproj.CoreCompileInputs.cache
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.sourcelink.json
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGame.45DB2AEE.Up2Date
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\refint\GoodGameDatabase.Data.Model.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\GoodGameDatabase.Data.Model.pdb
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Data.Model\obj\Debug\net6.0\ref\GoodGameDatabase.Data.Model.dll
