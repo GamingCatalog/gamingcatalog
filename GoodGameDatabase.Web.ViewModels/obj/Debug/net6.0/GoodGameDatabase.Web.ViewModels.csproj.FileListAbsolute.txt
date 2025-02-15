@@ -1,0 +1,12 @@
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\bin\Debug\net6.0\GoodGameDatabase.Web.ViewModels.deps.json
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\bin\Debug\net6.0\GoodGameDatabase.Web.ViewModels.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\bin\Debug\net6.0\GoodGameDatabase.Web.ViewModels.pdb
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.AssemblyInfoInputs.cache
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.AssemblyInfo.cs
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.sourcelink.json
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\refint\GoodGameDatabase.Web.ViewModels.dll
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\GoodGameDatabase.Web.ViewModels.pdb
+C:\gggg\GGDB\CSharp_Pathway_Final_Project\GoodGameDatabase.Web.ViewModels\obj\Debug\net6.0\ref\GoodGameDatabase.Web.ViewModels.dll
