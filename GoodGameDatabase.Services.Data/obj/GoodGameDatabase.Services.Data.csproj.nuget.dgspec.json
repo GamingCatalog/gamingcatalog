@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Services.Data\\GoodGameDatabase.Services.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Common\\GoodGameDatabase.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Common\\GoodGameDatabase.Common.csproj",
+        "projectName": "GoodGameDatabase.Common",
+        "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Common\\GoodGameDatabase.Common.csproj",
+        "packagesPath": "C:\\Users\\borislavchernev06\\.nuget\\packages\\",
+        "outputPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\borislavchernev06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data.Model\\GoodGameDatabase.Data.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data.Model\\GoodGameDatabase.Data.Model.csproj",
+        "projectName": "GoodGameDatabase.Data.Model",
+        "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data.Model\\GoodGameDatabase.Data.Model.csproj",
+        "packagesPath": "C:\\Users\\borislavchernev06\\.nuget\\packages\\",
+        "outputPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\borislavchernev06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Common\\GoodGameDatabase.Common.csproj": {
+                "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Common\\GoodGameDatabase.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data\\GoodGameDatabase.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data\\GoodGameDatabase.Data.csproj",
+        "projectName": "GoodGameDatabase.Data",
+        "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data\\GoodGameDatabase.Data.csproj",
+        "packagesPath": "C:\\Users\\borislavchernev06\\.nuget\\packages\\",
+        "outputPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\borislavchernev06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data.Model\\GoodGameDatabase.Data.Model.csproj": {
+                "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data.Model\\GoodGameDatabase.Data.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Services.Data\\GoodGameDatabase.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Services.Data\\GoodGameDatabase.Services.Data.csproj",
+        "projectName": "GoodGameDatabase.Services.Data",
+        "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Services.Data\\GoodGameDatabase.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\borislavchernev06\\.nuget\\packages\\",
+        "outputPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\borislavchernev06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data\\GoodGameDatabase.Data.csproj": {
+                "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Data\\GoodGameDatabase.Data.csproj"
+              },
+              "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Web.ViewModels\\GoodGameDatabase.Web.ViewModels.csproj": {
+                "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Web.ViewModels\\GoodGameDatabase.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Web.ViewModels\\GoodGameDatabase.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Web.ViewModels\\GoodGameDatabase.Web.ViewModels.csproj",
+        "projectName": "GoodGameDatabase.Web.ViewModels",
+        "projectPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Web.ViewModels\\GoodGameDatabase.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\borislavchernev06\\.nuget\\packages\\",
+        "outputPath": "C:\\gggg\\GGDB\\CSharp_Pathway_Final_Project\\GoodGameDatabase.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\borislavchernev06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
